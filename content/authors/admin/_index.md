@@ -10,7 +10,8 @@ interests:
   - Information Retrieval
 social: []
 organizations:
-  - name: 江西师范大学 （Jiangxi Normal University）
+  - name: 江西师范大学
+  - name: Jiangxi Normal University
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -22,7 +23,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: work@lwz.one
+email: lin.wenzheng@live.com
 superuser: true
 highlight_name: true
 ---
