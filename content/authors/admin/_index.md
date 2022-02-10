@@ -18,10 +18,10 @@ education:
   courses:
     - course: 心理学学士 BSc in Psychology
       institution: 北京师范大学 Beijing Normal University
-      year: ""
+      year: 2014
     - course: 心理学博士 PhD in Psychology
       institution: 新加坡国立大学 National University of Singapore
-      year: ""
+      year: 2020
 email: lin.wenzheng@live.com
 superuser: true
 highlight_name: true
