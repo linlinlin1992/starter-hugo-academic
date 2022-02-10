@@ -24,8 +24,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: 江西师范大学 （Jiangxi Normal University）
 education:
   courses:
@@ -38,7 +36,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: work@lwz.one
 superuser: true
 highlight_name: true
 ---
