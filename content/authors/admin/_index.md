@@ -23,6 +23,9 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+    - course: 心理学学士 BSc in Psychology
+      institution: 北京师范大学 Beijing Normal University
+      year: ""
 email: lin.wenzheng@live.com
 superuser: true
 highlight_name: true
