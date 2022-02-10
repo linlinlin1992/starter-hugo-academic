@@ -1,6 +1,6 @@
 ---
-title: 林闻正 Lin, Wenzheng
-role: 讲师 Instructor
+title: "林闻正 "
+role: Lin, Wenzheng
 avatar_filename: 微信图片_20200311214711.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
