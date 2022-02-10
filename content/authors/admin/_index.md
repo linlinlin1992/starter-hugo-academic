@@ -12,6 +12,8 @@ social: []
 organizations:
   - name: 江西师范大学
   - name: Jiangxi Normal University
+  - name: 讲师
+  - name: Instructor
 education:
   courses:
     - course: 心理学学士 BSc in Psychology
