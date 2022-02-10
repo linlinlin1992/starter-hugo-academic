@@ -5,9 +5,9 @@ avatar_filename: 微信图片_20200311214711.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 谦逊 Humility
+  - 社会认知 Social cognition
+  - 决策 Decision Making
 social: []
 organizations:
   - name: 江西师范大学, 讲师
