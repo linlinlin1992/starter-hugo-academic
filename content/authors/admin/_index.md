@@ -10,10 +10,8 @@ interests:
   - Information Retrieval
 social: []
 organizations:
-  - name: 江西师范大学
-  - name: Jiangxi Normal University
-  - name: 讲师
-  - name: Lecturer
+  - name: 江西师范大学, 讲师
+  - name: Jiangxi Normal University, Lecturer
 education:
   courses:
     - course: 心理学学士 BSc in Psychology
