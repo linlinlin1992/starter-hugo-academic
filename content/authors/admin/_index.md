@@ -26,6 +26,7 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: 江西师范大学 （Jiangxi Normal University）
 education:
   courses:
     - course: PhD in Artificial Intelligence
