@@ -13,7 +13,7 @@ organizations:
   - name: 江西师范大学
   - name: Jiangxi Normal University
   - name: 讲师
-  - name: Instructor
+  - name: Lecturer
 education:
   courses:
     - course: 心理学学士 BSc in Psychology
