@@ -38,7 +38,7 @@ url_video: ""
 title: "Humility in group processes: Humility attenuates in-group bias in the
   minimal group paradigm"
 doi: ""
-featured: true
+featured: false
 tags:
   - Humility
   - Minimal Group Paradigm
