@@ -45,11 +45,6 @@ tags:
   - In-group bias
 projects:
   - example
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: ""
 date: 2021-09-17T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
