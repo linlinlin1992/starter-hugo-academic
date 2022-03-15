@@ -24,7 +24,8 @@ authors:
   - 林闻正*
   - 尉兆梁
 author_notes: []
-publication: ""
+publication: Positive Psychology Symposium of the 23rd National Academic
+  Conference of Psychology (Virtual Conference)
 summary: "Humility as a prosocial psychological construct was found to reduce
   in-group favoritism. Participants were asked to completed the minimal group
   paradigm to create their arbitrary in-groups and out-groups. Higher levels of
@@ -32,11 +33,12 @@ summary: "Humility as a prosocial psychological construct was found to reduce
   compared to the out-groups... "
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: 第二十三届全国心理学学术会议；线上口头报告
 url_source: ""
 url_video: ""
 title: "Humility in group processes: Humility attenuates in-group bias in the
   minimal group paradigm"
+subtitle: 谦逊降低内群体偏见：来自最小群体范式的证据
 doi: ""
 featured: true
 tags:
@@ -47,7 +49,7 @@ projects:
   - example
 date: 2021-09-17T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
