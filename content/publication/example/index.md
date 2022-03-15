@@ -1,79 +1,57 @@
 ---
-title: "An example conference paper"
+abstract: >
+  Recent research has identified humility as a prosocial psychological construct
+  with both dispositional and state components. It is theorized to be able to
+  shift one’s egocentric focus to other entities. Supporting this notion,
+  psychological studies have linked humility to a number of altruistic
+  interpersonal outcomes such as empathy, prosocial emotions, helpfulness,
+  forgiveness, cooperation, etc. However, few studies have explored how humble
+  individuals will perceive others in group processes. Accordingly, this study
+  hypothesized that humble individuals, shifting their focus from self to
+  others, would be more likely to perceive out-group members and ingroup members
+  in a less biased manner.
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+
+  Undergraduate students were recruited as research participants and were first instructed to complete several measures of humility. Then, the state humility was manipulated by assigning those participants randomly into either humility or control conditions. Participants in the humility condition were primed with state humility by recalling and writing down their humble experiences; whereas participants in the control condition were asked to recall and write down neutral experiences. The in-group versus out-group distinction was manipulated by the minimal group paradigm. The paradigm was first designed by Tajfel et al. (1971) to test in-group favoritism through mere social categorization with no social grounds in reality. Following the classic procedure of this paradigm, participants in this study were all classified as over-estimators and were instructed to indicate their attitudes towards their in-group members (i.e., overestimators) and out-group members (i.e., underestimators). 
+
+
+  The results revealed that the effect of primed humility on in-group bias is moderated by dispositional humility. In particular, primed humility can reduce the in-group favoritism only among those participants who were low in dispositional humility; whereas those participants who were high in dispositional humility maintained a relatively lower level of in-group bias regardless of whether they were primed with state humility. These findings supported the initial assumption that humility can reduce in-group bias. Individuals who are high in dispositional humility will tend to resist the group processes showing a relatively balanced attitudes towards out-group members and in-group members. For those individuals who are low in dispositional humility, priming state humility can significantly reduce their in-group bias. This study might be one of the first studies recognizing the significance of humility in inter-group processes. As a prosocial virtue, humility is able to break the group barrier by decreasing the negative attitudes that one may hold towards their out-groups. Future studies may further investigate the underlying mechanisms about this effect. 
+slides: example
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - 林闻正*
+  - 尉兆梁
+author_notes: []
+publication: ""
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: "Humility in group processes: Humility attenuates in-group bias in the
+  minimal group paradigm"
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags:
+  - Humility
+  - Minimal Group Paradigm
+  - In-group bias
+projects:
+  - example
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
