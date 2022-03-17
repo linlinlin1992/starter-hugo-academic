@@ -12,8 +12,8 @@ tags:
   - Humility
   - Stereotype threat
 links: []
-image:
-  caption: ""
-  focal_point: Smart
+# image:
+#   caption: ""
+#   focal_point: Smart
 url_code: ""
 ---
