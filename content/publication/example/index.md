@@ -21,7 +21,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - 林闻正*
+  - 林闻正#
   - 尉兆梁
 author_notes: []
 publication: Positive Psychology Symposium of the 23rd National Academic
