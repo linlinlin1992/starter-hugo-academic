@@ -1,7 +1,7 @@
 ---
 title: "Humble assistant advisors promoting altruism among  university students:
-  The mediating role of trust"
-subtitle: 助导员谦逊对学生助人行为的促进作用——信任的中介效应
+  The mediating role of trust 助导员谦逊对学生助人行为的促进作用——信任的中介效应"
+subtitle: ""
 publication_types:
   - "1"
 authors:
