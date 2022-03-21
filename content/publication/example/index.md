@@ -37,8 +37,8 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "Humility in group processes: Humility attenuates in-group bias in the
-  minimal group paradigm"
-subtitle: 谦逊降低内群体偏见：来自最小群体范式的证据
+  minimal group paradigm 谦逊降低内群体偏见：来自最小群体范式的证据"
+subtitle: ""
 doi: ""
 featured: true
 tags:
