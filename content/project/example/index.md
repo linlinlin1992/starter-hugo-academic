@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: "Humility suppressing stereotype threats: A mechanism study"
-summary: ""
+summary: 江西省高校人文社会科学 研究项目
 url_video: ""
 date: 2021-11-15T00:00:00.000Z
 external_link: ""
@@ -12,8 +12,5 @@ tags:
   - Humility
   - Stereotype threat
 links: []
-# image:
-#   caption: ""
-#   focal_point: Smart
 url_code: ""
 ---
