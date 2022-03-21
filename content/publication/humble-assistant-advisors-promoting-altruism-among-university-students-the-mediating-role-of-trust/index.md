@@ -5,12 +5,9 @@ subtitle: 助导员谦逊对学生助人行为的促进作用——信任的中�
 publication_types:
   - "1"
 authors:
-  - Lin
-  - W.
-  - Liao
-  - Y.
-  - "& Yu"
-  - Z.
+  - 林闻正*
+  - 廖元萍
+  - 尉兆梁
 publication: The Annual Academic Conference of Chinese Association of  Social
   Psychology, Suzhou, China  中国社会心理学会2021年学术年会；墙报展示)
 draft: false
