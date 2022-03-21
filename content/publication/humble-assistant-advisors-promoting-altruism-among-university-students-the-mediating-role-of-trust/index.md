@@ -5,7 +5,7 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - 林闻正*
+  - 林闻正#
   - 廖元萍
   - 尉兆梁
 publication: The Annual Academic Conference of Chinese Association of  Social
