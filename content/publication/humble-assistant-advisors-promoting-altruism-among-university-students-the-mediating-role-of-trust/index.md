@@ -11,7 +11,7 @@ authors:
 publication: The Annual Academic Conference of Chinese Association of  Social
   Psychology, Suzhou, China  中国社会心理学会2021年学术年会；墙报展示)
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
