@@ -41,4 +41,4 @@ header:
 
 
 加入我们，让老师告别头秃！
-![](images/bold.jpg)
+![](bold.jpg)
