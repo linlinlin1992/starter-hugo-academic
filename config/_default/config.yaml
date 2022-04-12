@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 社会认知与人格实验室 # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://home.lwz.one/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
