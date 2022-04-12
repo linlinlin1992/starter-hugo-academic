@@ -1,7 +1,7 @@
 ---
 title: "林闻正 "
 role: Lin, Wenzheng
-avatar_filename: 微信图片_20200311214711.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - 谦逊 Humility
