@@ -15,7 +15,9 @@ header:
 ---
 
 本实验室常年诚招本科生与研究生加入我们的团队！
+
 实验室线下地点：江西师范大学
+
 联系邮箱： [lin.wenzheng@aliyun.com](lin.wenzheng@aliyun.com)
 
 实验室研究领域和兴趣可参考[主页](https://home.lwz.one/#about)。
