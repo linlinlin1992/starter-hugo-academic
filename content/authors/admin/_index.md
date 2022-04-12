@@ -11,6 +11,8 @@ social: []
 organizations:
   - name: 江西师范大学, 讲师
   - name: Jiangxi Normal University, Lecturer
+  - name: lin.wenzheng@aliyun.com
+    url: lin.wenzheng@aliyun.com
 education:
   courses:
     - course: 心理学博士 PhD in Psychology
