@@ -1,7 +1,7 @@
 ---
 title: 加入我们
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+summary: 研究生本科生招募公告
+date: "2022-04-13T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
