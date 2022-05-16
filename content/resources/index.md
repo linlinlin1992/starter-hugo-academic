@@ -24,5 +24,5 @@ header:
   - 数据分析软件 Jamovi 线上版；用户名密码进群询问；主要服务于部分电脑始终跑不了本地版的同学。
 - Rstutio: https://r.lwz.one 
   - 同上，R+Rstudio的线上版本；推荐使用本地版本。
-- 短网址生成：https://lwz.one 
+- 短网址生成： https://lwz.one 
   - 做实验如需生成短链接，可使用本系统；具体使用方法请联系老师。
