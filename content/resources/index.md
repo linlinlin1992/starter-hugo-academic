@@ -15,7 +15,7 @@ header:
 ---
 
 - 网盘： https://wp.lwz.one 
- - 直接注册使用；涉及不同权限须向老师申请。
+-- 直接注册使用；涉及不同权限须向老师申请。
 - Teams 链接： [Social cognition & personality lab](https://teams.microsoft.com/l/team/19%3auaMme6kWnI50sbX8diY7WIAtaXqbqFVtsYi8Avtjkho1%40thread.tacv2/conversations?groupId=b557d371-bd2a-459d-a754-94204c14fb1f&tenantId=a45237dc-3f45-44c3-8315-5bd7a1a73e45)
 - Jatos： https://exp.lwz.one 
 - Jamovi: https://jamovi.lwz.one 
