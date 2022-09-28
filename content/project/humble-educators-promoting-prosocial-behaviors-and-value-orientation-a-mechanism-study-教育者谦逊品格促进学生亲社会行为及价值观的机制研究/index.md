@@ -5,6 +5,10 @@ subtitle: ""
 date: 2022-09-28T08:47:43.653Z
 draft: false
 featured: false
+tags:
+  - Humility
+  - Prosocial behavior
+  - Prosocial value orientation
 image:
   filename: featured
   focal_point: Smart
