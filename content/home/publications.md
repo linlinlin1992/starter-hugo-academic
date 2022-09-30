@@ -23,7 +23,7 @@ content:
     author: ''
     exclude_featured: false
     exclude_future: false
-    exclude_past: true
+    exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
