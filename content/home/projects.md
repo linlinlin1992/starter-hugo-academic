@@ -13,8 +13,8 @@ content:
       tag: "*"
     - name: Humility
       tag: Humility
-    - name: Other
-      tag: Demo
+    - name: Morality
+      tag: Morality
 design:
   columns: "2"
   view: 2
