@@ -11,9 +11,8 @@ comments: ture  # Show comments?
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: "JOIN US"
-  image: ""
+  image: "grouppic1.jpg"
 ---
-![](grouppic.jpg)
 
 本实验室常年诚招有学术追求和想法的本科生与研究生加入我们的团队！
 
