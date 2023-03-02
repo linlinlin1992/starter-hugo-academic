@@ -13,6 +13,7 @@ header:
   caption: "JOIN US"
   image: ""
 ---
+![](grouppic.jpg)
 
 本实验室常年诚招有学术追求和想法的本科生与研究生加入我们的团队！
 
