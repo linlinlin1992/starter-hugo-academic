@@ -25,6 +25,8 @@ header:
   - 问卷收集平台；用户名与密码进群询问.
 ### Rstudio: https://r.lwz.one 
   - R+Rstudio的线上版本；推荐使用本地版本。
+### Zotero group library: [Social cognition and personality lab](https://www.zotero.org/groups/4978054/lwz-social_cognition_and_personality_lab)
+  - 文献库共享
 ### 短网址生成： https://lwz.one 
   - 做实验如需生成短链接，可使用本系统；具体使用方法请联系老师。
 
