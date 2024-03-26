@@ -1,5 +1,8 @@
 name: Build and Deploy Hugo Site
 
+env:
+  WC_HUGO_VERSION: '0.123.3'
+
 on:
   # Trigger the workflow every time you push to the `main` branch
   push:
